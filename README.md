@@ -1,11 +1,11 @@
 # SEP11 Freedom Project
-by X
+by Angelina Sambuco
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about teaching yourself a Javascript skill while creating a innovation or project with that new skill, as well as other coding knowlage. The purpose of this blog is to show you my learning, building and thinking process. You will follow my projects progression throught the year.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a simple interective map website. It will contain how to use a map, tips to remeber directions, custom markers and other features, for people of all ages. In particualr, this can be used to help young kids learn life skills and how to get familar with thier surroundings. It will be simple and informative. This blog will walk through my process of independently studying Leaflet in order to make my website.
 
 ## Links
 
