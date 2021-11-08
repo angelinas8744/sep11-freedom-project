@@ -9,6 +9,8 @@ For my project, I am making a simple interective map website. It will contain ho
 
 ## Links
 
+ [Leaflet](https://leafletjs.com/).
+ [My notes](https://docs.google.com/document/d/1Em1BDUs3BgqxNdrxwSdIcjycTU5AvamHXwbi9mxvXUY/edit?usp=sharing)
 Product
 
 Presentation
