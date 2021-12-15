@@ -96,7 +96,7 @@ map.on('click', onMapClick);
 
 this will give a popup for the user to tell them the coordates of where they are.
 ```
-To explain this, I started from the very beginning of creating a map. The first step is to put the code stated in CSS. And the same for the JS code. This prepares the page to be worked on further. Next, you add the div element where you want the map to be located, as well as its height. Next, you can set the view of yoyr map. Finally, you have to add your map with the following code. The links that are in is for the example of london. You can change where the user starts off, with coordnates. You can also choose from different map types, with different types views or layouts. Once the map is up, you can set up tons of commands or extras for the user to customize and edit thier map, such as shapes, paths and markers.
+To explain this, I started from the very beginning of creating a map. The first step is to put the code stated in CSS. And the same for the JS code. This prepares the page to be worked on further. Next, you add the div element where you want the map to be located, as well as its height. Next, you can set the view of your map. Finally, you have to add your map with the following code. The links that are in is for the example of london. You can change where the user starts off, with coordnates. You can also choose from different map types, with different types views or layouts. Once the map is up, you can set up tons of commands or extras for the user to customize and edit thier map, such as shapes, paths and markers.
 
 ### What is my plan ?
 
