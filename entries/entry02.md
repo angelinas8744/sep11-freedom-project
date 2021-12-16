@@ -113,6 +113,7 @@ To explain this, I started from the very beginning of creating a map. The first 
 - try new things !
 - check out more github projects
 - Keep track of all my trails, the success and errors.
+- Continue to learn and ask questions.
 
 #### How will I practice durring winter break?
 My plan is to possibly begin my practice map. Since I have the time by myself, no bells or distraction. I can work for as long as I want, or even take breaks. I can follow along witha video if needed, and overall, its a more relaxed enviorment. My goal is to first get the map down, and then play with setting up its different features in class, since it takes less time and code (from what Ive seen). If I realize I need more support and things are still unclear while trying to code, I will take the time to watch those long, hour tutorials and take new notes, organizing my old ones, and writing example code. 
