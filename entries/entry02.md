@@ -11,7 +11,7 @@
 
 ### How am I learning?
   I am currently focusing on how to get the basics down to create a map. Watching youtube tutorials and reading articles. Another useful way was looking at github projects and reading the support questions people asked, such as errors and howw to fix them. With this information, I made myself a beginners guide on the topic. I took both pieces of code, expenations and step by step setups to help me start practicing leaflet. I wrote the directions in ways it easy for me to understand, and jotting idea's along the way, making me have all my thoughts in one place. Below, is what my planning page currently looks like.
-```
+```JS
  How to ADD leaflet
 
 https://www.tutorialspoint.com/leafletjs/leafletjs_getting_started.htm
