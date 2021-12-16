@@ -102,15 +102,22 @@ To explain this, I started from the very beginning of creating a map. The first 
   Since starting a new map is a challanging and unfamiliar task, I have been hesitant to start practicing my code. In order to feel more prepared, I created my planning page as a reference to feel ready. Big code can be intimidating, especally if its new. I will take it slow, and not rush a perfect map all in one session. I will take one day for each step, so I can  really take the time to understand each part instead of rushing through just to get it to work. My plan of doing 1-2 steps thoroughly will help me get a clear understanding and will help me find what parts i need a better understanding on.
 
 ### What are some concerns ?
+- Complex code that I havent learned yet
+- Getting errors which will take me a while to fix
+- fitting the map on the page along with text
+- figuring out how to let the user input coordnates
+      - a prompt and array?
+- 
 
 ### What will I do next ?
+- try new things !
+- check out more github projects
+- Keep track of all my trails, the success and errors.
 
 #### How will I practice durring winter break?
-My plan is to possibly begin my practice map. Since I have the time by myself, no bells or distraction. I can work for as long as I want, or even take breaks. I can follow along witha video if needed, and overall, its a more relaxed enviorment. My goal is to first get the map down, and then play with setting up its different features in class, since it takes less time and code (from what Ive seen). If I realize I need more support and things are still unclear while trying to code, I will take the time to watch those long, hour tutorials and take new notes, organizing my old ones, and writing example code.
+My plan is to possibly begin my practice map. Since I have the time by myself, no bells or distraction. I can work for as long as I want, or even take breaks. I can follow along witha video if needed, and overall, its a more relaxed enviorment. My goal is to first get the map down, and then play with setting up its different features in class, since it takes less time and code (from what Ive seen). If I realize I need more support and things are still unclear while trying to code, I will take the time to watch those long, hour tutorials and take new notes, organizing my old ones, and writing example code. 
 
-
-
-Text
+Overall, I think I have sucessfully progressed with my freedom project.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
