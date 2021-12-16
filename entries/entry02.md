@@ -99,12 +99,14 @@ this will give a popup for the user to tell them the coordates of where they are
 To explain this, I started from the very beginning of creating a map. The first step is to put the code stated in CSS. And the same for the JS code. This prepares the page to be worked on further. Next, you add the div element where you want the map to be located, as well as its height. Next, you can set the view of your map. Finally, you have to add your map with the following code. The links that are in is for the example of london. You can change where the user starts off, with coordnates. You can also choose from different map types, with different types views or layouts. Once the map is up, you can set up tons of commands or extras for the user to customize and edit thier map, such as shapes, paths and markers.
 
 ### What is my plan ?
+  Since starting a new map is a challanging and unfamiliar task, I have been hesitant to start practicing my code. In order to feel more prepared, I created my planning page as a reference to feel ready. Big code can be intimidating, especally if its new. I will take it slow, and not rush a perfect map all in one session. I will take one day for each step, so I can  really take the time to understand each part instead of rushing through just to get it to work. My plan of doing 1-2 steps thoroughly will help me get a clear understanding and will help me find what parts i need a better understanding on.
 
 ### What are some concerns ?
 
 ### What will I do next ?
 
 #### How will I practice durring winter break?
+My plan is to possibly begin my practice map. Since I have the time by myself, no bells or distraction. I can work for as long as I want, or even take breaks. I can follow along witha video if needed, and overall, its a more relaxed enviorment. My goal is to first get the map down, and then play with setting up its different features in class, since it takes less time and code (from what Ive seen). If I realize I need more support and things are still unclear while trying to code, I will take the time to watch those long, hour tutorials and take new notes, organizing my old ones, and writing example code.
 
 
 
