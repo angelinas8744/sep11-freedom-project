@@ -15,6 +15,8 @@
  8. Plan out what content I want around my map, and what I want the website to look like.
 
 > one question I have that still is unanswered is..
+
+
  I noticed in one guide you needed a a text or code editor, which I wonder what this is? 
 - They gave the example of Sublime Text, Atom Editor, or Visual Studio Code.
 After researching, I noticed sublime text has to be downloaded. Is it required for coding leaflet?
