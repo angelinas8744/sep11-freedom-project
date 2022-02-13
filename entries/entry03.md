@@ -27,7 +27,20 @@ var popup = marker.bindPopup('<b>Hello world!</b><br />I am a popup.');
  I noticed in one guide you needed a a text or code editor, which I wonder what this is? They gave the example of Sublime Text, Atom Editor, or Visual Studio Code.
 After researching, I noticed sublime text has to be downloaded. Is it required for coding leaflet?
 
+### How would I explain this to beginners?
+- Start by building up from the map
+- Take small steps
+- Dont intimidate yourself with big articles
 
+Leaflet is a pretty straightforward Javascript Library. From what ive learned, Its like building blocks. Its very step by step. I would reccoemnd to my past self, or somebody learning this to follow each step, one at a time. I would reccoemned to not move on to the next step until you really focused on and understand the previous one. 
+
+### Tips and goals for my future self.
+1. Try out everything you learned.
+2. Mistakes will tell you what you need to learn more.
+3. If youre confused on a step, go back and study it more.
+4. Try One step per day, really focusing on writting it and unserstanding it, not just to get it to work.
+5. Learn more about my question.
+6. add more interactive methods once I try to get a base map running.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
