@@ -8,17 +8,24 @@
  1. Every monday, repeat one [tutorial](https://youtu.be/wVnimcQsuwk) to gain a consistant familiarity with the process.
  2. Continue to add to and revise my google doc, making a clear step by step to best avoid errors and intimidation.
  3. Get the base map done.
- 4. Do further research on what to add to it, and how to make it interactive
- 5. Possibly use content learned in class such as DOM events, if they work with the code.
- 6. Look at leaflet github projects and try them out, see what features are liked and disliked, and do further research.
- 7. Add and play around with them in my sandbox map.
- 8. Plan out what content I want around my map, and what I want the website to look like.
+ 4. Do further research on what to add to it, and how to make it interactive.
+
+One thing ypu can add to leaflet is markers. These will amrk a location on your map. You can have pre-set ones, or ones added by the user.
+``` var marker = L.marker([51.5, -0.09]).addTo(map);
+```
+  > idea: add markers for each trainstation of bayridge blue and bustops green / red depending on the line and where its stops are.
+   
+ 6. Possibly use content learned in class such as DOM events, if they work with the code.
+ 7. Look at leaflet github projects and try them out, see what features are liked and disliked, and do further research.
+ 8. Add and play around with them in my sandbox map.
+ 9. Plan out what content I want around my map, and what I want the website to look like.
 
 > one question I have that still is unanswered is..
 
 
  I noticed in one guide you needed a a text or code editor, which I wonder what this is? They gave the example of Sublime Text, Atom Editor, or Visual Studio Code.
 After researching, I noticed sublime text has to be downloaded. Is it required for coding leaflet?
+
 
 
 [Previous](entry02.md) | [Next](entry04.md)
