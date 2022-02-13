@@ -10,9 +10,8 @@
  3. Get the base map done.
  4. Do further research on what to add to it, and how to make it interactive.
 
-One thing ypu can add to leaflet is markers. These will amrk a location on your map. You can have pre-set ones, or ones added by the user.
-``` var marker = L.marker([51.5, -0.09]).addTo(map);
-```
+One thing you can add to leaflet is markers. These will amrk a location on your map. You can have pre-set ones, or ones added by the user.
+``` var marker = L.marker([51.5, -0.09]).addTo(map); var popup = marker.bindPopup('<b>Hello world!</b><br />I am a popup.'); ```
   > idea: add markers for each trainstation of bayridge blue and bustops green / red depending on the line and where its stops are.
    
  6. Possibly use content learned in class such as DOM events, if they work with the code.
