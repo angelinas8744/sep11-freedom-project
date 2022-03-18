@@ -106,6 +106,7 @@ I find as I learn new things in class, I come up with more ideas for my freedom 
 [Online Tutorial 1](http://zevross.com/blog/2014/10/28/tips-for-creating-leafleft-js-maps/)
 
 [Online Tutorial 2](https://www.sitepoint.com/leaflet-create-map-beginner-guide/)
+--------------------------------------------------------------------------------------------
 
 [Previous](entry03.md) | [Next](entry05.md)
 
