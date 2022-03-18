@@ -7,7 +7,7 @@ This month has been very very successful in terms of my freedom project. I was a
 - Navigation tips
 - Color and Decoration
 
-I was able to get my map working by following this [guide I created](https://docs.google.com/document/d/18fefLc6nQL6y_yu4SGAUnliXsFcpn5lnHqkHvMBBpSg/edit?usp=sharing).
+I was able to get my map working by following this [guide I created](https://docs.google.com/document/d/18fefLc6nQL6y_yu4SGAUnliXsFcpn5lnHqkHvMBBpSg/edit?usp=sharing). Compared to what I expected, It took me about 2-3 days and was fairly easy. I didnt come across any major issues. The only one I had was placing the links in the wrong spot. Other than that, I was able to sucessfully create my base map for my project.
 ```JS
 <!DOCTYPE html>
 
