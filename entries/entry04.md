@@ -66,14 +66,19 @@ I was able to get my map working by following this [guide I created](https://doc
 2. Create a DIV with the Id of map. put this in the location you want to have your map.
 
 
-3.a In CSS, resize your map by using #Map to call it, and adjust the height accordingly.
+2.a In CSS, resize your map by using #Map to call it, and adjust the height accordingly.
 
-4. The first essensial part of personalizng your map is setting the view. This is the automatic position your map will be in. It is the default coordantes your map rests on, such as being untouched or feshly loaded. One thing I would like to do in the future, would be to let the user input thier own coordnates. I gathered the coordnates for Bayride and set the map to there by using ``var map = L.map('map').setView([51.505, -0.09], 13);``. the command .setView litterally does what it says. It sets the default view of your map with the coordnates you provide in the parethisis following it.
+3. The first essensial part of personalizng your map is setting the view. This is the automatic position your map will be in. It is the default coordantes your map rests on, such as being untouched or feshly loaded. One thing I would like to do in the future, would be to let the user input thier own coordnates. I gathered the coordnates for Bayride and set the map to there by using ``var map = L.map('map').setView([51.505, -0.09], 13);``. the command .setView litterally does what it says. It sets the default view of your map with the coordnates you provide in the parethisis following it.
 
 
-4.a Setting the view of the map is another part of the default map. It is how zoomed in you want to be into the coordantes you chose above. I set the default zoom as 15 by using ``zoom: 15``. The zoom can be adjusted  by the user by using the provided buttons on the top left corner of the map.
+3.a Setting the view of the map is another part of the default map. It is how zoomed in you want to be into the coordantes you chose above. I set the default zoom as 15 by using ``zoom: 15``. The zoom can be adjusted  by the user by using the provided buttons on the top left corner of the map.
 
-5. The rest of the code is decalring coordantes and giving the map its ability to move, appear and follow the code written, simmilar to the links above.
+4. The rest of the code is decalring coordantes and giving the map its ability to move, appear and follow the code written, simmilar to the links above.
+
+### Next steps / to do list
+
+### New and Answered questions
+To answer a previos question, I did not have to download any outside appications to run or code my Leaflet map.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
