@@ -76,6 +76,10 @@ I was able to get my map working by following this [guide I created](https://doc
 4. The rest of the code is decalring coordantes and giving the map its ability to move, appear and follow the code written, simmilar to the links above.
 
 ### Next steps / to do list
+My first next step would be to get my map slighty more accurately centered. I have a good understanding and the code is already pretty much in place, I wonder if I could use CSS to center the map? I plan on trying it next time.
+As for a next leap, I will start to work on markers. First, I will make basic ones to pinpoint locations, such as HSTAT. Next, I would try to make that HSAT marker yellow. Next, Mark a train station, color it orange, mark the bus, color it blue, mark the trains and color it green. Since this is A MVP, the first step would be to have one working marker. Next, instead of adding all of the markers, and going back and coloring it, It would be best to work on coloring that specific one, and following the pattern.
+To make some markers more advanced, leaflet allows you to use immages or comments with markers. Anonther feature could be a user put marker, such as by clicking the map. Maybe I could use ``.addEventListener()`` to respond when the user clicks the map, and MouseX,MouseY for the coordnates on where the marker should be.
+ Finally, I will spend the last few times to decorate the website. Adding text, colors, backgrounds. Most importantly the website will be workin g, and I will add the finishing touches once my dream map is complete!
 
 ### New and Answered questions
 To answer a previos question, I did not have to download any outside appications to run or code my Leaflet map.
