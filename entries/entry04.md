@@ -96,10 +96,15 @@ I find as I learn new things in class, I come up with more ideas for my freedom 
 
 ### Sources
 [Leaflet](https://leafletjs.com/)
+
 [Leaflet's Guide](https://leafletjs.com/SlavaUkraini/examples/quick-start/)
+
 [MVP plan](https://docs.google.com/document/d/1WPoUtDxDtXmFJ1bUfcMtytF-ZiVZD5GwN2wqt8km6Hc/edit?usp=sharing)
+
 [Leaflet Guide](https://docs.google.com/document/d/18fefLc6nQL6y_yu4SGAUnliXsFcpn5lnHqkHvMBBpSg/edit?usp=sharing)
+
 [Online Tutorial 1](http://zevross.com/blog/2014/10/28/tips-for-creating-leafleft-js-maps/)
+
 [Online Tutorial 2](https://www.sitepoint.com/leaflet-create-map-beginner-guide/)
 
 [Previous](entry03.md) | [Next](entry05.md)
