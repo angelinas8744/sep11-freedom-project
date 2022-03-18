@@ -7,7 +7,7 @@ This month has been very very successful in terms of my freedom project. I was a
 - Navigation tips
 - Color and Decoration
 
-I was able to get my map working by following this [guide I created](https://docs.google.com/document/d/18fefLc6nQL6y_yu4SGAUnliXsFcpn5lnHqkHvMBBpSg/edit?usp=sharing). Compared to what I expected, It took me about 2-3 days and was fairly easy. I didnt come across any major issues. The only one I had was placing the links in the wrong spot. Other than that, I was able to sucessfully create my base map for my project.
+I was able to get my map working by following this [guide I created](https://docs.google.com/document/d/18fefLc6nQL6y_yu4SGAUnliXsFcpn5lnHqkHvMBBpSg/edit?usp=sharing). Compared to what I expected, It took me about 2-3 days and was fairly easy. I didn't come across any major issues. The only one I had was placing the links in the wrong spot. Other than that, I was able to successfully create my base map for my project.
 ```JS
 <!DOCTYPE html>
 
@@ -88,12 +88,19 @@ To make some markers more advanced, leaflet allows you to use images or comments
  #### Toughest
  I most likely will not get to this, but If I have about 3 weeks or more left with **everything** done, I would make a smaller, weather themed map with little to no functions rather than moving. [Here](https://www.aerisweather.com/blog/2020/10/21/animate-weather-data-with-leaflet-and-aerisweather/) is a guide to a tutorial for weather maps using Leaflet.
 
-### New and Answered questions
+### New and Answered questions & comments
 To answer a previous question, I did not have to download any outside applications to run or code my Leaflet map.
 I wonder If I can let the user choose the marker color? Could I use RGB
 
-I find as I learn new things in class, I come up with more ideas for my freedom project, and how to apply it to leaflet.
+I find as I learn new things in class, I come up with more ideas for my freedom project, and how to apply it to leaflets. In addition, continuing to try new things,and even doing a Casual demo helped me feel more confident when it comes to starting something new or unfamiliar. I won't learn if I don't try. 
 
+### Sources
+[Leaflet](https://leafletjs.com/)
+[Leaflet's Guide](https://leafletjs.com/SlavaUkraini/examples/quick-start/)
+[MVP plan](https://docs.google.com/document/d/1WPoUtDxDtXmFJ1bUfcMtytF-ZiVZD5GwN2wqt8km6Hc/edit?usp=sharing)
+[Leaflet Guide](https://docs.google.com/document/d/18fefLc6nQL6y_yu4SGAUnliXsFcpn5lnHqkHvMBBpSg/edit?usp=sharing)
+[Online Tutorial 1](http://zevross.com/blog/2014/10/28/tips-for-creating-leafleft-js-maps/)
+[Online Tutorial 2](https://www.sitepoint.com/leaflet-create-map-beginner-guide/)
 
 [Previous](entry03.md) | [Next](entry05.md)
 
