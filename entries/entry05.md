@@ -93,13 +93,31 @@ li{
    
    1. The first thing you probally noticed, like me, was all of the weird links. This is to setup Leaflet to be used, and what map you want to show up on your page. Following, You must put ``<div id="map"></div>`` between body and script. Small errors in the placement- the hardest part of the coding, its setup- will lead to problems with the map and its code. The setup took a good two tries.
 
-   2. 
+   2. Next, Is the start of the map itself. First, you want to set up ``var map = L.map`` which holds the map itself, allowing you to call it multiple times as needed and add new things. L. is used trought Leaflet. In addition to holding the map, you need to tell the page the dimensions and default zoom, as well as the default coordantes. I set the coordantes to Bayride, enough to get a good overview of the area. The zoom and coordnates are done in the JS section in the map varible. center stands for the center coordnates, or middle coordnates of the default map. Zoom, is how close or far you are from the location, the closer, the more specifc view you get. You can alway adjust the zoom and coordnates manually on my site. Unlike the other two setups, the map dimensions has to be done in CSS because it is considered the stlye of the map, and does not effect how it functions. You can have the map any look possible and it will always work the same. It is more considered the looks, but it is manditory for it to appear.
+   3. Next, we hit ``L.tileLayer``. This gives the map its satelite look. You can choose from many map types. You copy and paste the given link, sorcing the map to know how to look, and then ``.addTo(map);``. 
 
-### Part 2. The Preoduct.
+> keep in mind .addTo(map); comes up a lot in leaflet. It works like git push, it adds and commits changes to your map, and saves the new information to it!
+
+
+   4. Now, you have a basic map. By now, I had about a month left. I was able to learn and create three basic markers, and try to learn how to edit them once placed ( but didnt get the chance to finish- therefore working on it as a beyond MVP ). For the standard basic marker, you need coordnates and varible. ``new L.marker`` creates a new marker known rather than overlapping the coordnates on one marker, allowing only one. you need to call a new  marker for each one, making them distint from one another. Here is an example of how a marker should look.  var marker**name** = new L.marker([ **X,Y**]);
+   5. Finally, you have to add each marker to the map by first calling the markers name followed by ``.addTo(map);``.
+
+### Part 2. The Product.
 
 ### Part 3. Improvements.
+My priotity for improving my map is the makers. They currently look identical. The markers are defently more complicated when you want to edit them. You need to create seperate vars and learn lots of new commands, as well as downloading fitting markers for each differnt one youy want, such as a pencil for school, or a simple green one. The default leaflet marker is currently on my map. 
+My second task would be a smaller weather map. I am interested in this because of the simmilar and differnt features, code, and it looks really cool overall. This can track rain, tempurature or snow, using colors over a location.
+
 
 ### Part 4. Takeaways and Achivements.
+- Order matters, as well as placement in code.
+- Simple code can be hard, Hard looking code can be simple.
+- Tasks can be easier than they look.
+- The longer you wait, the more worried you will be about the outcome
+- You will never find the perfect guide, take what sticks out to you from differnt ones and create your own! this was extremely helpful when it came to this project.
+- Pay attention to dates on guides, as outdated ones will be useless.
+- Time managemnt skills, self modivation and using guides responibly.
+
 </script>
 
 </body>
