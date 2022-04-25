@@ -1,4 +1,5 @@
-4/25/22
+### 4/25/22
+
 Wow! I finally hit the milestone of finishing my MVP. I feel like it was just yesterday that I was picking Leaflet and started off the year. I was so worried I would struggle or mess up but everything went smoothly and according to plan!
 Let's start with what I left off from my last blog. I was able to finish the basics, as the tough extension of adding default markers. I was able to put one on HSTAT, one on the B4 bus stop, and one on the R train station. Coloring the markers was a difficult task I wasn't able to reach because I would have to download leaflet markers and attach them to my IDE. My next step, beyond MVP would be to add text to the markers, as well as a smaller weather map below the mail sattelite one.
 Well, time to show off the finished MVP I've been talking about!
