@@ -91,7 +91,9 @@ li{
    ```
    Looks like a lot of code right? Well, working with Leaflet is a big step by step process. This is the big picture, lets break down each piece.
    
-   1. The first thing you probally noticed, like me, was all of the weird links. This is to setup Leaflet to be used, and what map you want to show up on your page.
+   1. The first thing you probally noticed, like me, was all of the weird links. This is to setup Leaflet to be used, and what map you want to show up on your page. Following, You must put ``<div id="map"></div>`` between body and script. Small errors in the placement- the hardest part of the coding, its setup- will lead to problems with the map and its code. The setup took a good two tries.
+
+   2. 
 
 </script>
 
