@@ -95,11 +95,13 @@ The first thing you probably noticed, like me, was all of the weird links. This 
 
 >keep in mind `.addTo(map);` comes up a lot in leaflets. It works like git push, it adds and commits changes to your map, and saves the new information to it!
 
-4. Now, you have a basic map. By now, I had about a month left. I was able to learn and create three basic markers, and try to learn how to edit them once placed ( but didn't get the chance to finish- therefore working on it as a beyond MVP ). For the standard basic marker, you need coordinates and variables. new L.marker creates a new marker rather than overlapping the coordinates on one marker, allowing only one. you need to call a new marker for each one, making them distinct from one another. Here is an example of how a marker should look. var markername = new L.marker([ X,Y]);
+4. Now, you have a basic map. By now, I had about a month left. I was able to learn and create three basic markers, and try to learn how to edit them once placed ( but didn't get the chance to finish- therefore working on it as a beyond MVP ). For the standard basic marker, you need coordinates and variables. new L.marker creates a new marker rather than overlapping the coordinates on one marker, allowing only one. you need to call a new marker for each one, making them distinct from one another. Here is an example of how a marker should look. `var markername = new L.marker([ X,Y]);`
 
-5. Finally, you have to add each marker to the map by first calling the marker's name followed by .addTo(map);.
+5. Finally, you have to add each marker to the map by first calling the marker's name followed by `.addTo(map);.`
 
 ### Part 2. The Product.
+Check out my video of me going through my project [here.](https://drive.google.com/file/d/1Jisl5W8M_3uHMc0tR3Px5bx2rAsH4Iq3/view)
+Check out my raw code for my project [here.](https://raw.githubusercontent.com/angelinas8744/leaflet-SEP11/main/website.html)
 
 ### Part 3. Improvements.
 My priority for improving my map is the makers. They currently look identical. The markers are definitely more complicated when you want to edit them. You need to create seperate vars and learn lots of new commands, as well as downloading fitting markers for each different one you want, such as a pencil for school, or a simple green one. The default leaflet marker is currently on my map. My second task would be a smaller weather map. I am interested in this because of the similar and different features, code, and it looks really cool overall. This can track rain, temperature or snow, using colors over a location.
