@@ -101,6 +101,7 @@ The first thing you probably noticed, like me, was all of the weird links. This 
 
 ### Part 2. The Product.
 Check out my video of me going through my project [here.](https://drive.google.com/file/d/1Jisl5W8M_3uHMc0tR3Px5bx2rAsH4Iq3/view)
+
 Check out my raw code for my project [here.](https://raw.githubusercontent.com/angelinas8744/leaflet-SEP11/main/website.html)
 
 ### Part 3. Improvements.
