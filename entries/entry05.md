@@ -4,6 +4,9 @@ Wow! I finally hit the milestone of finishing my MVP. I feel like it was just ye
 Let's start with what I left off from my last blog. I was able to finish the basics, as the tough extension of adding default markers. I was able to put one on HSTAT, one on the B4 bus stop, and one on the R train station. Coloring the markers was a difficult task I wasn't able to reach because I would have to download leaflet markers and attach them to my IDE. My next step, beyond MVP would be to add text to the markers, as well as a smaller weather map below the mail sattelite one.
 Well, time to show off the finished MVP I've been talking about!
 Part 1. Code Breakdown.
+
+````
+JS
 <!DOCTYPE html>
 
 <html>
@@ -83,7 +86,7 @@ color:#0099FF;
   markerhstat.addTo(map);
   markerb4.addTo(map);
   markerRtrain.addTo(map);
- 
+ ````
 Looks like a lot of code right? Well, working with Leaflet is a big step by step process. This is the big picture, let's break down each piece.
 The first thing you probably noticed, like me, was all of the weird links. This is to set up Leaflet to be used, and what map you want to show up on your page. Following, You must put <div id="map"></div> between body and script. Small errors in the placement- the hardest part of the coding, its setup- will lead to problems with the map and its code. The setup took a good two tries.
 Next, Is the start of the map itself. First, you want to set up var map = L.map which holds the map itself, allowing you to call it multiple times as needed and add new things. L. is used through Leaflet. In addition to holding the map, you need to tell the page the dimensions and default zoom, as well as the default coordinates. I set the coordinates to Bayride, enough to get a good overview of the area. The zoom and coordinates are done in the JS section in the map variable. center stands for the center coordinates, or middle coordinates of the default map. Zoom, is how close or far you are from the location, the closer, the more specific view you get. You can alway adjust the zoom and coordinates manually on my site. Unlike the other two setups, the map dimensions have to be done in CSS because it is considered the style of the map, and does not affect how it functions. You can have the map any look possible and it will always work the same. It is more considered the looks, but it is mandatory for it to appear.
