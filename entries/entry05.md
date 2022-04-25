@@ -93,7 +93,7 @@ The first thing you probably noticed, like me, was all of the weird links. This 
 
 3. Next, we hit `L.tileLayer.` This gives the map its satellite look. You can choose from many map types. You copy and paste the given link, sourcing the map to know how to look, and then `.addTo(map);.`
 
->keep in mind `.addTo(map);` comes up a lot in leaflets. It works like git push, it adds and commits changes to your map, and saves the new information to it!
+>keep in mind `.addTo(map);` comes up a lot in this code. It works like git push, it adds and commits changes to your map, and saves the new information to it!
 
 4. Now, you have a basic map. By now, I had about a month left. I was able to learn and create three basic markers, and try to learn how to edit them once placed ( but didn't get the chance to finish- therefore working on it as a beyond MVP ). For the standard basic marker, you need coordinates and variables. new L.marker creates a new marker rather than overlapping the coordinates on one marker, allowing only one. you need to call a new marker for each one, making them distinct from one another. Here is an example of how a marker should look. `var markername = new L.marker([ X,Y]);`
 
