@@ -107,6 +107,8 @@ Check out my raw code for my project [here.](https://raw.githubusercontent.com/a
 ### Part 3. Improvements.
 My priority for improving my map is the makers. They currently look identical. The markers are definitely more complicated when you want to edit them. You need to create seperate vars and learn lots of new commands, as well as downloading fitting markers for each different one you want, such as a pencil for school, or a simple green one. The default leaflet marker is currently on my map. My second task would be a smaller weather map. I am interested in this because of the similar and different features, code, and it looks really cool overall. This can track rain, temperature or snow, using colors over a location.
 
+One source I have been learning from for this change is [here.](https://blogs.absyz.com/2019/04/03/customizing-the-markers-in-your-leaflet-map/)
+
 ### Part 4. Takeaways and Achievements.
 - Order matters, as well as placement in code.
 - Simple code can be hard, Hard looking code can be simple.
