@@ -40,6 +40,7 @@ Leaflet was a comfortable challenge. It was difficult and I was able to learn it
 
 ## Achievements and Growth.
 I am very proud of how far I came this year. Pushing through all of the challenges, while juggling all my classes, personal life and pandemic. Onto that- last year was tough and I felt like giving up on the course. The year was better, but I had moments of discouragement too. However, I always gave my best effort- no matter how I was feeling and tried to push myself past any challenges along the way. I was able to ask for help, google efficiently, and make my freedom project how I imagined. Despite being intimidated at first, looking back at myself from September, I came a long way.
+
 I would like to continue to grow and use these skills, even moving away from the CS field. I want to better memorize the way JS works and practice solving my own bugs and errors, spotting mistakes and being a better presenter. I want to improve my problem solving skills- findling many solutions, and creativity.
 Thank you for following me on this Freedom Project Journey.
 
