@@ -46,6 +46,9 @@ After the showcase, this felt so easy. I was very confident in my in class prese
 To start off, I made my slides in order of How I worked,. Then, I re-ordered them in the most logical for my audiance to follow and learn from. Finally, I made my slides decorated and visually pleasing. 
 
 ### Takeaways
+1. Work on eye contact
+2. Try to talk slower and take my time
+3. Be more interactive.
 
 ## Do Nexts
 - Finding a way to add JS to leaflet. 
