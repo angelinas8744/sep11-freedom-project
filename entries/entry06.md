@@ -26,7 +26,9 @@ Leaflet is somewhat Limited to its features so I couldnt think of any way to inp
 
 This was the hardest - and most brought up- beyond MVP extention. I tried to work on it for afew days but realized It wasnt working out and time was closing in on me. First, I created two text boxes and varibles to recive and hold the X and Y coordnates for a custom marker. Then, I put the varibles in the X and Y places, but there was errors with saving and placing. However, This is something I may work on in the future.
 
-- P
+- Working with something harder.
+
+Leaflet was a comfortable challange. It was difficult and I was able to learn it, make the MVP and work up. However, I did not get as stuck as I expected. I am thankful, but next time I would like to push myself further and do a more complex project.
 
 ## Achivements and Growth.
 
