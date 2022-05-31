@@ -2,10 +2,35 @@
 ##### 5/31/22
 
 ## Overview
+  Now that my freedom project has been completed, The time has come to show it off. Which leads me to my biggest challage, shyness. I have always been extremely shy and anxious since I was a toddler. As I grew up, Thinks got worse. I am working really hard everyday to push myself and achieve new things. I am not letting it hold me back anymore and I have done many things this year that my old self wouldnt do- including presenting to judges in a SEP expo.
 
 ### Showcase 
 
+Now, my first showcase. I havent done this ever. This is my first year back from the pandemic. I felt lots of things, but I knew I would feel acomplished afterwards. The mix of nerves and excitement and antisipation was keeping me on my toes.
+
 #### Before
+Not only did I have to physically prepare, I also had to mentally. I wanted to work on my presentation, but also keep my stress levels low. I had lots of other things to focus on too, so I didnt wnat to become too overwhelmed. First, I created my slides. I kept them brief, but not too brief incase I forget what to say. Next, I worked on my brief- two minute presentation. Below, you will see my planning process.
+
+--------------------------------------------------------------------------------
+Top page intro
+Zoom features
+Custom marker
+Toggle captions
+Markers and text
+
+
+Hello, My name is Angelina and I made a map using Leaflet, a JavaScript library. My goal was to make a simple map for anyone to use. 
+
+The code for leaflet is straightforward, you pick out the map you want  and you can customize it and add features you would like. It works as building blocks
+
+My map can be zoomed in by using the buttons provided in the corner, or by double clicking. You can move around by clicking and dragging.
+
+I added Markers to save coordinates, and labeled them with text. These are the default markers. 
+
+I created a custom marker with an image from google, and you can click it to toggle text.
+
+Bye, thank you.
+
 
 #### After
 
