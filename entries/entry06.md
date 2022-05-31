@@ -1,7 +1,7 @@
 # Entry 6
 ##### 5/31/22
 
-### Overview
+## Overview
 
 ### Showcase 
 
@@ -11,13 +11,13 @@
 
 #### Takeaways 
 
-### Presentations
+## Presentations
 
 #### Process
 
 #### Takeaways
 
-### Do Nexts
+## Do Nexts
 - Finding a way to add JS to leaflet. 
 
 Leaflet is somewhat Limited to its features so I couldnt think of any way to inpcooporate loops to my code. My next step would be to figure out a way to use more JS for my map.
@@ -28,7 +28,7 @@ This was the hardest - and most brought up- beyond MVP extention. I tried to wor
 
 - P
 
-### Achivements and Growth.
+## Achivements and Growth.
 
 >Thank you for follwing me on this Freedom Project Jouney.
 
