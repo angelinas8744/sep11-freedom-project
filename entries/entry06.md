@@ -24,8 +24,12 @@ Not only did I have to physically prepare, I also had to mentally. I wanted to w
 
 **Bye, thank you.****
 
+I wanted to keep it easy to remeber, because I tend to rush or forget when I get nervous presenting. I wrote to be simple so I would be able to expalin as I interected with the website. I wrote one breif sentince for each feature, and in the easiest order to present. I decided not to over practice, because memerizing the "script" can make me too focused on perfecttion. I practiced more with the website, and studying the basic expinations and code of my project. I wanted to keep it as natural as possible to reduce the amount of things to remember for the day.
+
+I was somewhat nervous on arrival, I made sure to get their on time. However, sicurity was being an issue for my friends so I went in with the bus kids without a problem. Perfect timing!
 
 #### After
+I was really proud of myself for speaking loud, clear and confidently. I made sure to not rush and to act natural. **After all, noody knows this project mre than me.** The first presentation was somewhat scary, I felt myself growing red and stubling on my thoughts. Howver, I quickly broke into routine and grew confident as more people checked out my project. Ontop of that, all the positive feedback, and enviorment made me feel more comfortable.
 
 #### Takeaways 
 
