@@ -11,14 +11,8 @@ Now, my first showcase. I havent done this ever. This is my first year back from
 #### Before
 Not only did I have to physically prepare, I also had to mentally. I wanted to work on my presentation, but also keep my stress levels low. I had lots of other things to focus on too, so I didnt wnat to become too overwhelmed. First, I created my slides. I kept them brief, but not too brief incase I forget what to say. Next, I worked on my brief- two minute presentation. Below, you will see my planning process.
 
->Top page intro
-Zoom features
-Custom marker
-Toggle captions
-Markers and text
 
-
-Hello, My name is Angelina and I made a map using Leaflet, a JavaScript library. My goal was to make a simple map for anyone to use. 
+**Hello, My name is Angelina and I made a map using Leaflet, a JavaScript library. My goal was to make a simple map for anyone to use. 
 
 The code for leaflet is straightforward, you pick out the map you want  and you can customize it and add features you would like. It works as building blocks
 
@@ -28,7 +22,7 @@ I added Markers to save coordinates, and labeled them with text. These are the d
 
 I created a custom marker with an image from google, and you can click it to toggle text.
 
-Bye, thank you.
+Bye, thank you.**
 
 
 #### After
