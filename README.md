@@ -11,9 +11,11 @@ For my project, I am making a simple interective map website. It will contain ho
 
  [Leaflet](https://leafletjs.com/).
  [My notes](https://docs.google.com/document/d/1Em1BDUs3BgqxNdrxwSdIcjycTU5AvamHXwbi9mxvXUY/edit?usp=sharing)
-Product
+ [My slides](https://docs.google.com/presentation/d/1LXppj-WZfBZdiXqUwGKtE5n6Ph6XlkNVPhvkQ6EwRn0/edit?usp=sharing)
+ [SEP site](https://hstatsep.github.io/)
+ 
+ [My Project](https://angelinas8744.github.io/leaflet-freedomproject/)
 
-Presentation
 
 ## Implications
 X
