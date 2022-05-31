@@ -18,11 +18,11 @@ Not only did I have to physically prepare, I also had to mentally. I wanted to w
 
 **My map can be zoomed in by using the buttons provided in the corner, or by double clicking. You can move around by clicking and dragging.**
 
-**I added Markers to save coordinates, and labeled them with text. These are the default markers. **
+**I added Markers to save coordinates, and labeled them with text. These are the default markers.**
 
 **I created a custom marker with an image from google, and you can click it to toggle text.**
 
-**Bye, thank you.****
+**Bye, thank you.**
 
 I wanted to keep it easy to remeber, because I tend to rush or forget when I get nervous presenting. I wrote to be simple so I would be able to expalin as I interected with the website. I wrote one breif sentince for each feature, and in the easiest order to present. I decided not to over practice, because memerizing the "script" can make me too focused on perfecttion. I practiced more with the website, and studying the basic expinations and code of my project. I wanted to keep it as natural as possible to reduce the amount of things to remember for the day.
 
