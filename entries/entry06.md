@@ -32,10 +32,16 @@ I was somewhat nervous on arrival, I made sure to get their on time. However, si
 I was really proud of myself for speaking loud, clear and confidently. I made sure to not rush and to act natural. **After all, noody knows this project mre than me.** The first presentation was somewhat scary, I felt myself growing red and stubling on my thoughts. Howver, I quickly broke into routine and grew confident as more people checked out my project. Ontop of that, all the positive feedback, and enviorment made me feel more comfortable.
 
 #### Takeaways 
+I am not the type of person to innitatate conversations or call people over, So I might work on being more appoachable, since I can look serious or avoid eye contact or people in general. 
+
+Things take practice.
+
+Not everything is as bad as it seems.
 
 ## Presentations
 
 #### Process
+After the showcase, this felt so easy. I was very confident in my in class presentation.
 
 #### Takeaways
 
