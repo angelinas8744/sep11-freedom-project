@@ -6,7 +6,7 @@
 
 ## Showcase 
 
-Now, my first showcase. I havent done this ever. This is my first year back from the pandemic. I felt lots of things, but I knew I would feel acomplished afterwards. The mix of nerves and excitement and antisipation was keeping me on my toes.
+Now, my first showcase. I havent done this ever. This is my first year back from the pandemic. I felt lots of things, but I knew I would feel acomplished afterwards. The mix of nerves and excitement and antisipation was keeping me on my toes. The goal of this event is to show off your yearlong work to judges and guests and have feedback and winners- who will later present in a school assembly. (so glad I didnt win!)
 
 ### Before
 Not only did I have to physically prepare, I also had to mentally. I wanted to work on my presentation, but also keep my stress levels low. I had lots of other things to focus on too, so I didnt wnat to become too overwhelmed. First, I created my slides. I kept them brief, but not too brief incase I forget what to say. Next, I worked on my brief- two minute presentation. Below, you will see my planning process.
@@ -38,10 +38,12 @@ Things take practice.
 
 Not everything is as bad as it seems.
 
-### Presentations
-
+## Presentations
+Next, I had to present my freedom project to the class.
 ### Process
-After the showcase, this felt so easy. I was very confident in my in class presentation.
+After the showcase, this felt so easy. I was very confident in my in class presentation. We had to create slides which explain our project, while also having a demo of it. The show had to have a hook, explanation and analisis. Overall, I summed up my project well, and did a great job presenting. Another check mark for me!
+
+To start off, I made my slides in order of How I worked,. Then, I re-ordered them in the most logical for my audiance to follow and learn from. Finally, I made my slides decorated and visually pleasing. 
 
 ### Takeaways
 
