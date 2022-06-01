@@ -38,7 +38,7 @@ To start off, I made my slides in order of How I worked. Then, I re-ordered them
 - Work on eye contact
 - Try to talk slower and take my time
 - Be more interactive.
-### Do Nexts
+## Project Improvement
 - Finding a way to add JS to leaflet.
 
 Leaflet is somewhat Limited to its features so I couldn't think of any way to incorporate loops to my code. My next step would be to figure out a way to use more JS for my map.
