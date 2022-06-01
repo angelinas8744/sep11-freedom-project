@@ -34,16 +34,22 @@ Next, I had to present my freedom project to the class.
 Process
 After the showcase, this felt so easy. I was very confident in my in class presentation. We had to create slides which explain our project, while also having a demo of it. The show had to have a hook, explanation and analysis. Overall, I summed up my project well, and did a great job presenting. Another check mark for me!
 To start off, I made my slides in order of How I worked. Then, I re-ordered them in the most logical for my audience to follow and learn from. Finally, I made my slides decorated and visually pleasing.
-Takeaways
-Work on eye contact
-Try to talk slower and take my time
-Be more interactive.
-Do Nexts
-Finding a way to add JS to leaflet.
+### Takeaways
+- Work on eye contact
+- Try to talk slower and take my time
+- Be more interactive.
+### Do Nexts
+- Finding a way to add JS to leaflet.
+
 Leaflet is somewhat Limited to its features so I couldn't think of any way to incorporate loops to my code. My next step would be to figure out a way to use more JS for my map.
-Working on custom markers.
+
+- Working on custom markers.
+
 This was the hardest - and most brought up- beyond MVP extension. I tried to work on it for afew days but realized It wasn't working out and time was closing in on me. First, I created two text boxes and variables to receive and hold the X and Y coordinates for a custom marker. Then, I put the variables in the X and Y places, but there were errors with saving and placing. However, This is something I may work on in the future.
-Working with something harder.
+
+- Working with something harder.
+
+
 Leaflet was a comfortable challenge. It was difficult and I was able to learn it, make the MVP and work up. However, I did not get as stuck as I expected. I am thankful, but next time I would like to push myself further and do a more complex project.
 
 ## Achievements and Growth.
